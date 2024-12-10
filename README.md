@@ -27,7 +27,7 @@ This project demonstrates a fun and engaging computer vision application that us
    ```
 3. Run the program:
    ```bash
-   python invisible_blue_cloak.py
+   python invisible_blue_cloak.ipynb
    ```
 
 ## **Requirements**
